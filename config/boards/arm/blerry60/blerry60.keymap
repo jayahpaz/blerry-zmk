@@ -30,11 +30,11 @@
 
 		fn_layer {
 // -----------------------------------------------------------------------------------------
-//   | GRAVE | F1    | F2    | F3    | F4    | F5    | F6    | F7    | F8    | F9    | F10   | F11   | F12   | DEL    |
-//   | BT_CLR|PROF 0 |PROF 1 |PROF 2 |PROF 3 |PROF 4 | PSCR  | SCLK  | PAUSE | TRANS | TRANS | UP    | TRANS | TRANS  |        
-//   | TRANS | TRANS | TRANS | TRANS | TRANS | TRANS | TRANS | TRANS | HOME  | PG_UP | LEFT  | RIGHT |         TRANS  |  
-//   | SHIFT | TRANS | TRANS | TRANS | TRANS | TRANS | TRANS | TRANS | TRANS | END   | PG_DN | DOWN  | TRANS |  TRANS |
-//   | RESET | BOOT  | TRANS |                        TRANS |                                  TRANS | GUI   | TRANS |
+//   | GRAVE | F1     | F2     | F3    | F4    | F5    | F6    | F7    | F8    | F9    | F10          | F11   | F12   | DEL    |
+//   | BT_CLR|PROF 0  |PROF 1  |PROF 2 |PROF 3 |PROF 4 | PSCR  | SCLK  | PAUSE | TRANS | C_PLAY_PAUSE | UP    | TRANS | TRANS  |        
+//   | TRANS |C_VOL_DN|C_VOL_UP|C_PREV |C_NEXT |C_MUTE | TRANS | TRANS | HOME  | PG_UP | LEFT         | RIGHT |         TRANS  |  
+//   | SHIFT | TRANS  | TRANS  | TRANS | TRANS | TRANS | TRANS | TRANS | TRANS | END   | PG_DN        | DOWN  | TRANS |  TRANS |
+//   | RESET | BOOT   | TRANS  |                        TRANS |                                         TRANS | GUI   | TRANS |
 
 			bindings = <
     &kp GRAVE        &kp F1           &kp F2           &kp F3          &kp F4          &kp F5        &kp F6           &kp F7           &kp F8           &kp F9           &kp F10          &kp F11          &kp F12       &kp DEL
