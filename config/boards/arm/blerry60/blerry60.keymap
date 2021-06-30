@@ -31,7 +31,7 @@
 		fn_layer {
 // -----------------------------------------------------------------------------------------
 //   | GRAVE | F1    | F2    | F3    | F4    | F5    | F6    | F7    | F8    | F9    | F10   | F11   | F12   | DEL    |
-//   | BT_CLR|PROF 0 |PROF 1 |PROF 2 |PROF 3 |PROF 4 | PSCR  | SCLK  | PAUSE | TRANS | TRANS | UP    | TRANS | TRANS  |       
+//   | BT_CLR|PROF 0 |PROF 1 |PROF 2 |PROF 3 |PROF 4 | PSCR  | SCLK  | PAUSE | TRANS | TRANS | UP    | TRANS | TRANS  |        
 //   | TRANS | TRANS | TRANS | TRANS | TRANS | TRANS | TRANS | TRANS | HOME  | PG_UP | LEFT  | RIGHT |         TRANS  |  
 //   | SHIFT | TRANS | TRANS | TRANS | TRANS | TRANS | TRANS | TRANS | TRANS | END   | PG_DN | DOWN  | TRANS |  TRANS |
 //   | RESET | BOOT  | TRANS |                        TRANS |                                  TRANS | GUI   | TRANS |
